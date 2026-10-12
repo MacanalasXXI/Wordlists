@@ -5,7 +5,7 @@
       "name": "Seguridad Física — Eventos Críticos",
       "description": "Términos para etiquetado automático de incidentes críticos de seguridad física, violencia, movilidad y riesgo operativo en Sonora.",
       "usage": 4,
-      "link": "REEMPLAZAR_CON_URL_RAW",
+      "link": "https://raw.githubusercontent.com/MacanalasXXI/Wordlists/refs/heads/main/seguridad_fisica_sonora.json",
       "entries": [
         { "value": "homicidio", "category": "Violencia letal" },
         { "value": "asesinato", "category": "Violencia letal" },
