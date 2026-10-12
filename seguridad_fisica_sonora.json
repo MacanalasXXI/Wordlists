@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "data": [
+    {
+      "name": "Seguridad Física — Eventos Críticos",
+      "description": "Términos para etiquetado automático de incidentes críticos de seguridad física, violencia, movilidad y riesgo operativo en Sonora.",
+      "usage": 4,
+      "link": "REEMPLAZAR_CON_URL_RAW",
+      "entries": [
+        { "value": "homicidio", "category": "Violencia letal" },
+        { "value": "asesinato", "category": "Violencia letal" },
+        { "value": "ejecutado", "category": "Violencia letal" },
+        { "value": "ejecución", "category": "Violencia letal" },
+        { "value": "persona sin vida", "category": "Violencia letal" },
+
+        { "value": "balacera", "category": "Ataque armado" },
+        { "value": "ataque armado", "category": "Ataque armado" },
+        { "value": "tiroteo", "category": "Ataque armado" },
+        { "value": "disparos", "category": "Ataque armado" },
+        { "value": "enfrentamiento", "category": "Ataque armado" },
+
+        { "value": "secuestro", "category": "Delincuencia" },
+        { "value": "extorsión", "category": "Delincuencia" },
+        { "value": "asalto", "category": "Delincuencia" },
+        { "value": "robo con violencia", "category": "Delincuencia" },
+
+        { "value": "crimen organizado", "category": "Crimen organizado" },
+        { "value": "cártel", "category": "Crimen organizado" },
+        { "value": "sicario", "category": "Crimen organizado" },
+        { "value": "narcotráfico", "category": "Crimen organizado" },
+        { "value": "decomiso", "category": "Crimen organizado" },
+
+        { "value": "bloqueo carretero", "category": "Movilidad" },
+        { "value": "cierre de carretera", "category": "Movilidad" },
+        { "value": "bloqueo", "category": "Movilidad" },
+
+        { "value": "manifestación", "category": "Conflicto social" },
+        { "value": "protesta ciudadana", "category": "Conflicto social" },
+        { "value": "huelga", "category": "Conflicto social" },
+        { "value": "paro laboral", "category": "Conflicto social" },
+        { "value": "conflicto sindical", "category": "Conflicto social" },
+
+        { "value": "incendio", "category": "Incendio" },
+        { "value": "incendio industrial", "category": "Incendio" },
+        { "value": "incendio estructural", "category": "Incendio" },
+
+        { "value": "empresario", "category": "Riesgo ejecutivo" },
+        { "value": "directivo", "category": "Riesgo ejecutivo" },
+        { "value": "ejecutivo", "category": "Riesgo ejecutivo" },
+
+        { "value": "transporte de personal", "category": "Impacto operativo" },
+        { "value": "parque industrial", "category": "Impacto operativo" },
+        { "value": "instalaciones", "category": "Impacto operativo" }
+      ]
+    }
+  ]
+}
