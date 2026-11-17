@@ -1,2 +1,2 @@
 # Wordlists
-Word lists for Taranis AI tagging and OSINT workflows.
+Word lists for OSINT workflows.
