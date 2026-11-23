@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "data": [
+    {
+      "name": "Sinaloa — Actores y Alertas Estratégicas",
+      "description": "Términos para etiquetado automático de actores criminales, procesos judiciales y alertas o posturas de autoridades de Estados Unidos relacionadas con Sinaloa.",
+      "usage": 4,
+      "entries": [
+        {
+          "value": "Chapo Isidro",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Fausto Isidro Meza",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Fausto Isidro Meza Flores",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Meza Flores",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Cártel de Guasave",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Cartel de Guasave",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Germán Rolando Gálvez",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "German Rolando Galvez",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Beltrán Leyva",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Beltran Leyva",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Chapitos",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Los Chapitos",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "Mayiza",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "La Mayiza",
+          "category": "Actores criminales"
+        },
+        {
+          "value": "El Guano",
+          "category": "Actores criminales"
+        },
+
+        {
+          "value": "extradición",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "extradicion",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "vinculan a proceso",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "vinculación a proceso",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "vinculacion a proceso",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "FEMDO",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "amparo",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "FGR",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "orden de aprehensión",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "orden de aprehension",
+          "category": "Proceso judicial"
+        },
+        {
+          "value": "proceso judicial",
+          "category": "Proceso judicial"
+        },
+
+        {
+          "value": "Nivel 4",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "No viajar",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "TravelGov",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Travel.State.Gov",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Departamento de Estado",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Embajada de Estados Unidos",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Consulado General",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "HSI",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Homeland Security Investigations",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "FBI",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "DEA",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Drug Enforcement Administration",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Terry Cole",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "Ronald Johnson",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "alerta de seguridad",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "aviso de viaje",
+          "category": "EE. UU. / alertamiento"
+        },
+        {
+          "value": "travel advisory",
+          "category": "EE. UU. / alertamiento"
+        }
+      ]
+    }
+  ]
+}
